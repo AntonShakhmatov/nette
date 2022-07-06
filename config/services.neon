@@ -1,0 +1,3 @@
+services:
+    - App\Model\PostModel
+    - App\Router\RouterFactory::createRouter
